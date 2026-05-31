@@ -1,0 +1,12 @@
+```yaml
+site_name: Base de Datos II - Mis Apuntes
+theme:
+  name: material
+  palette:
+    scheme: slate
+    primary: teal
+
+nav:
+  - 'Inicio': LÉAME.md
+  - 'Teoría y Documentos':
+    - 'Esquema de la Materia': Teoría/ pdfs/.gitkeep
