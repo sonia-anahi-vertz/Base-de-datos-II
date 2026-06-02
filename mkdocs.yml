@@ -1,12 +1,20 @@
+# Base de Datos II 📚
 
-site_name: Base de Datos II - Mis Apuntes
-theme:
-  name: material
-  palette:
-    scheme: slate
-    primary: teal
+Apuntes, ejercicios y material de la materia Base de Datos II - TUP.
 
-nav:
-  - 'Inicio': LÉAME.md
-  - 'Teoría y Documentos':
-    - 'Esquema de la Materia': Teoría/ pdfs/.gitkeep
+## Contenido
+
+### Teoría
+- Introducción a Bases de Datos
+- Modelo Entidad Relación
+- Normalización
+- SQL
+- Joins
+- Triggers
+- Funciones
+- Tablas del Sistema
+
+### Ejercicios
+- Ejercicios prácticos
+- Resoluciones
+- Trabajo Integrador
