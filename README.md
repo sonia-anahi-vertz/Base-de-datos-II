@@ -8,6 +8,7 @@ Bienvenido a mis apuntes y códigos de la materia.
 
 ## 🗺️ Índice
 
-* [Unidad 1: Modelos Avanzados](./Unidad-1/conceptos-clave.md)
+* [Unidad 1: Modelos Avanzados](./Teoria/pdfs/01 - TEORÍA 1er ENCUENTRO - Base de Datos II.pdf)
+* 
 * [Unidad 2: Optimización y Consultas](./Unidad-2/consultas-sql.md)
 *
