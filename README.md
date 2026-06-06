@@ -67,7 +67,7 @@ Bienvenido a mis apuntes y códigos de la materia.
 
 * [Resolución]()
 
-* [4 Encuentro](https://github.com/sonia-anahi-vertz/Base-de-datos-II/blob/main/Teoria/pdfs/16%20-%20CREATE%20DATABASE%20-%20Base%20de%20Datos%20II.pdf)
+* [4 Encuentro Create Database](https://github.com/sonia-anahi-vertz/Base-de-datos-II/blob/main/Teoria/pdfs/16%20-%20CREATE%20DATABASE%20-%20Base%20de%20Datos%20II.pdf)
 * 
       *  Contenido  
       *  Crear una base de datos sin especificar SIZE ...................................... 2 
@@ -92,14 +92,14 @@ Bienvenido a mis apuntes y códigos de la materia.
       *  UNLIMITED ......................................................................... 7 
       *  FILEGROWTH ........................................................................ 7 
       *  growth_increment .................................................................. 7 
-      *  Observaciones ...................................................................... 8 
+      *  Observaciones ..................................................................... 8 
       *  Permisos .......................................................................... 11 
       *  Ejemplos .......................................................................... 11
   
 * [Ejercicio 4](https://github.com/sonia-anahi-vertz/Base-de-datos-II/blob/main/Ejercicios/10%20-%20EJERCICIO%2004%202026%20-%20Base%20de%20Datos%20II.pdf)
 * [Resolución]()
 
-* [5 Encuentro](https://github.com/sonia-anahi-vertz/Base-de-datos-II/blob/main/Teoria/pdfs/12%20-%20TEOR%C3%8DA%20SQL%2002%202026%20-%20Base%20de%20Datos%20II%20(1).pdf)
+* [5 Encuentro Teoria SQL Parte 2](https://github.com/sonia-anahi-vertz/Base-de-datos-II/blob/main/Teoria/pdfs/12%20-%20TEOR%C3%8DA%20SQL%2002%202026%20-%20Base%20de%20Datos%20II%20(1).pdf)
 
 * 
       *  Contenido 
@@ -136,11 +136,33 @@ Bienvenido a mis apuntes y códigos de la materia.
 * Encuentro 7º, 8º y 9º
 * [Teoria LIKE](https://github.com/sonia-anahi-vertz/Base-de-datos-II/blob/main/Teoria/pdfs/12%20-%20TEOR%C3%8DA%20LIKE%202026%20-%20Base%20de%20Datos%20II.pdf)
 * 
-      *  
+      *Contenido 
+      *  Uso del operador LIKE ............................................................... 2 
+      *  Utilizar caracteres comodín como literales .......................................... 2 
+      *  Ejemplos ............................................................................ 3  
 
 * [Teoria JOIN](https://github.com/sonia-anahi-vertz/Base-de-datos-II/blob/main/Teoria/pdfs/08%20-%20JOINS%202026%20-%20Base%20de%20Datos%20II.pdf)
-
+* 
+      * Contenido 
+      *  Join ................................................................................. 2 
+      *  Tablas de ejemplo .................................................................... 2 
+      *  Combinación interna (INNER JOIN) ..................................................... 3 
+      *  LEFT JOIN Y RIGHT JOIN ............................................................... 5 
+      *  TODOS LOS TIPOS DE JOIN EN SQL – GUÍA DE REFERENCIA RÁPIDA ............................7
 * [Teoria SQL Parte 3](https://github.com/sonia-anahi-vertz/Base-de-datos-II/blob/main/Teoria/pdfs/17%20-%20TEOR%C3%8DA%20SQL%203%202026%20-%20Base%20de%20Datos%20II.pdf)
+* 
+      *  Contenido 
+      *  Visualizar números de líneas de código en el Editor .................................. 2 
+      *  Para generar los scripts ............................................................. 2 
+      *  CRUD o ABML .......................................................................... 2 
+      *  CREATE ............................................................................... 3 
+      *  DROP ................................................................................. 3 
+      *  ALTER ................................................................................ 3 
+      *  Las sentencias DML (Data Manipulation Language) ...................................... 4 
+      *  INSERT ............................................................................... 4 
+      *  DELETE ............................................................................... 4 
+      *  UPDATE ............................................................................... 4 
+      *  CLAVE UNIQUE ......................................................................... 4 
 
 * [Ejercicio 6](https://github.com/sonia-anahi-vertz/Base-de-datos-II/blob/main/Ejercicios/14%20-%20EJERCICIO%2006%202026%20-%20Base%20de%20Datos%20II.pdf
 )
