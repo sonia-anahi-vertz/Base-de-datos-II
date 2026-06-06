@@ -168,14 +168,33 @@ Bienvenido a mis apuntes y códigos de la materia.
 
 * Encuentro 10º
 * [Teoria Tablas del Sistema](https://github.com/sonia-anahi-vertz/Base-de-datos-II/blob/main/Teoria/pdfs/19%20-%20TEOR%C3%8DA%20TABLAS%20DEL%20SISTEMA%20-%20Base%20de%20Datos%20II.pdf)
-
+* 
+      *  Tablas del sistema
 * [Teoria SQL Parte 4](https://github.com/sonia-anahi-vertz/Base-de-datos-II/blob/main/Teoria/pdfs/20%20-%20TEOR%C3%8DA%20SQL%204%20-%20Base%20de%20Datos%20II.pdf)
-
+* 
+      *  Control de flujo  
 * [Teoria Funciones](https://github.com/sonia-anahi-vertz/Base-de-datos-II/blob/main/Teoria/pdfs/21%20-%20TEORIA%20FUNCIONES%20-%20Base%20de%20Datos%20II.pdf)
-
+* 
+      *  Contenido 
+      *  Funciones .............................................................................. 2 
+      *  Funciones matemáticas .................................................................. 3 
+      *  Funciones de Cadena .................................................................... 5 
+      *  Funciones de fecha y hora............................................................... 7
 * [Teoria TRIGGERS](https://github.com/sonia-anahi-vertz/Base-de-datos-II/blob/main/Teoria/pdfs/22%20-%20TEOR%C3%8DA%20TRIGGERS%20-%20Base%20de%20Datos%20II.pdf)
-
+* 
+      *  Contenido 
+      *  Triggers en Transact SQL ............................................................... 2 
+      *  Trigger DML. ........................................................................... 2 
+      *  Trigger DDL ............................................................................ 6
 * [Teoria Ejemplos de TRIGGERS](https://github.com/sonia-anahi-vertz/Base-de-datos-II/blob/main/Teoria/pdfs/23%20-%20EJEMPLOS%20TRIGGERS%20-%20Base%20de%20Datos%20II%20(1).pdf)
-
+* 
+      *  Contenido 
+      *  Triggers de actualización .............................................................. 2 
+      *  Ejemplo de un trigger para actualizar el stock declarando variables. ................... 2 
+      *  Ejemplo de un trigger para actualizar el stock sin declarar las variables. ............. 2 
+      *  Ejemplo de un trigger para actualizar el total de una factura. ......................... 3 
+      *  Triggers de inserción................................................................... 3 
+      *  Triggers Instead of .................................................................... 4
 * [Teoria RESEED](https://github.com/sonia-anahi-vertz/Base-de-datos-II/blob/main/Teoria/pdfs/24%20-%20Teor%C3%ADa%20RESEED%20-%20Base%20de%20Datos%20II.pdf)
-
+* 
+      *  Verificar y volver a colocar un valor a la columna IDENTITY en una tabla ............... 2
