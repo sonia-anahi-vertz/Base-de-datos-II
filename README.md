@@ -23,9 +23,7 @@ Bienvenido a mis apuntes y códigos de la materia.
 *  [Resolución]() 
   
 * [2 Encuentro: Normalizacion](https://github.com/sonia-anahi-vertz/Base-de-datos-II/blob/main/Teoria/pdfs/02%20-%20TEOR%C3%8DA%202do%20ENCUENTRO%20-%20NORMALIZACI%C3%93N%20-%20Base%20de%20Datos%20II.pdf)
-
-* Contenido 
- 
+*  
      * Claves:............................................................................... 2 
      * Normalización de la Base de datos .................................................... 2 
      * 1º forma normal ...................................................................... 2 
