@@ -52,7 +52,8 @@ Bienvenido a mis apuntes y códigos de la materia.
       *  Relaciones entre tablas. ........................................................... 7 
       *  INSERT ............................................................................. 8 
      
-* [Teria Tipo de datos]()
+* [Teria Tipo de datos](https://github.com/sonia-anahi-vertz/Base-de-datos-II/blob/main/Teoria/pdfs/13%20-%20TEOR%C3%8DA%20TIPO%20DE%20DATOS%20-%20Base%20de%20Datos%20II.pdf
+)
 *  
       *  Data Types (Transact SQL) .......................................................... 2 
       *  Exact numerics ..................................................................... 2 
@@ -66,8 +67,13 @@ Bienvenido a mis apuntes y códigos de la materia.
 
 * [Resolución]()
 
+* [4 Encuentro](https://github.com/sonia-anahi-vertz/Base-de-datos-II/blob/main/Teoria/pdfs/16%20-%20CREATE%20DATABASE%20-%20Base%20de%20Datos%20II.pdf)
+* 
+
 * [Ejercicio 4](https://github.com/sonia-anahi-vertz/Base-de-datos-II/blob/main/Ejercicios/10%20-%20EJERCICIO%2004%202026%20-%20Base%20de%20Datos%20II.pdf)
 * [Resolución]()
+
+* [5 Encuentro](https://github.com/sonia-anahi-vertz/Base-de-datos-II/blob/main/Teoria/pdfs/12%20-%20TEOR%C3%8DA%20SQL%2002%202026%20-%20Base%20de%20Datos%20II%20(1).pdf)
 
 * 
       *  Contenido 
