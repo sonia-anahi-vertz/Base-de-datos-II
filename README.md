@@ -18,8 +18,10 @@ Bienvenido a mis apuntes y códigos de la materia.
       *  Entroducción al modelo Entidad - Relación ..........................................6
       *  Diagrama ER de un Ejemplo...........................................................7
 
-      *  [Ejercicio 1]()
+      *  [Ejercicio 1](https://github.com/sonia-anahi-vertz/Base-de-datos-II/blob/main/Ejercicios/01%20-%20EJERCICIO%2001%202026%20-%20Base%20de%20Datos%20II.pdf
+)
       *  [Resolución]() 
   
-* [Unidad 2: Optimización y Consultas](./Unidad-2/consultas-sql.md)
+* [2 Encuentro: Normalizacion](https://github.com/sonia-anahi-vertz/Base-de-datos-II/blob/main/Teoria/pdfs/02%20-%20TEOR%C3%8DA%202do%20ENCUENTRO%20-%20NORMALIZACI%C3%93N%20-%20Base%20de%20Datos%20II.pdf
+)
 *
