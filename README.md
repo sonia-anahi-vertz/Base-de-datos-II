@@ -165,6 +165,8 @@ Bienvenido a mis apuntes y códigos de la materia.
       *  CLAVE UNIQUE ......................................................................... 4 
 
 * [Ejercicio 6](https://github.com/sonia-anahi-vertz/Base-de-datos-II/blob/main/Ejercicios/14%20-%20EJERCICIO%2006%202026%20-%20Base%20de%20Datos%20II.pdf)
+* Resolución
+* [DER Ejercicio 6](https://github.com/sonia-anahi-vertz/Base-de-datos-II/blob/main/Ejercicios/ELERCICIO06%20DER.drawio.pdf)
 
 * Encuentro 10º
 * [Teoria Tablas del Sistema](https://github.com/sonia-anahi-vertz/Base-de-datos-II/blob/main/Teoria/pdfs/19%20-%20TEOR%C3%8DA%20TABLAS%20DEL%20SISTEMA%20-%20Base%20de%20Datos%20II.pdf)
