@@ -54,7 +54,13 @@ Bienvenido a mis apuntes y códigos de la materia.
      
 * [Teria Tipo de datos]()
 *  
-   
+      *  Data Types (Transact SQL) .......................................................... 2 
+      *  Exact numerics ..................................................................... 2 
+      *  Approximate numerics ............................................................... 2 
+      *  Date and time ...................................................................... 2 
+      *  Character strings .................................................................. 2 
+      *  Unicode* character strings ......................................................... 3 
+      *  Binary strings ..................................................................... 3 
 
 * [Ejercicio 3](https://github.com/sonia-anahi-vertz/Base-de-datos-II/blob/main/Ejercicios/07%20-%20EJERCICIO%2003%202026%20-%20Base%20de%20Datos%20II.pdf)
 
